@@ -1,0 +1,46 @@
+# AI Music Generation Studio — Example Prompts
+# Copy any of these into the app and hit Generate Music.
+
+# ── Jazz & Blues ─────────────────────────────────────────────────────────────
+An upbeat jazz piano trio with walking bass and brushed snare, cozy coffee-shop vibe
+Late-night blues guitar with a slow, soulful 12-bar progression and wailing harmonica
+Bebop jazz quintet — fast melodic runs, bebop changes, tight ensemble interplay
+Smooth jazz saxophone over gentle electric piano chords and a subtle bossa nova groove
+
+# ── Classical & Orchestral ───────────────────────────────────────────────────
+Epic orchestral battle theme with soaring strings, brass fanfares and thunderous percussion
+Melancholic classical piano sonata, slow and introspective, in the style of Chopin
+A stirring string quartet in D minor, full of tension and emotional release
+Baroque harpsichord piece in the style of Bach — intricate counterpoint, ornate runs
+
+# ── Electronic & Synth ───────────────────────────────────────────────────────
+Energetic EDM drop with supersaw leads, punching kick drum and euphoric build-up
+Dreamy synth-wave with lush pads, arpeggiated sequences and reverb-soaked atmosphere
+Dark techno — hypnotic kick, industrial textures, evolving synthesizer stabs, 130 BPM
+Vaporwave track with slowed R&B samples, vintage saxophone, and heavy reverb
+
+# ── Ambient & Cinematic ──────────────────────────────────────────────────────
+Dark ambient drone with deep sub-bass rumble, eerie textures and distant metallic whispers
+Gentle meditation soundscape with Tibetan singing bowls, soft flute and rain sounds
+Cinematic trailer music — quiet tension building to a massive orchestral hit at the end
+Soft piano and strings, hopeful and bittersweet, like the ending of a film
+
+# ── World & Folk ─────────────────────────────────────────────────────────────
+Traditional Irish jig on fiddle and bodhrán, lively and danceable, 6/8 time
+Flamenco guitar with percussive strumming, intricate fingerpicking and a passionate feel
+African polyrhythmic drumming ensemble with talking drums and balafon melody
+Sitar and tabla — a raga-inspired composition, meditative and slowly building
+
+# ── Hip Hop & R&B ────────────────────────────────────────────────────────────
+Chill lo-fi hip hop beat with vinyl crackle, mellow Rhodes and a dusty drum loop
+Trap beat — heavy 808 bass, snappy hi-hats rolling in triplets, dark melodic sample
+Old-school boom bap hip hop with a punchy kick, snare, and a soulful horn stab loop
+
+# ── Rock & Metal ─────────────────────────────────────────────────────────────
+Aggressive punk rock — distorted power chords, driving drums, raw electric energy
+Progressive rock instrumental — complex time signatures, guitar and synth interplay
+Heavy metal riff with down-tuned guitars, double-kick drumming and crunching palm mutes
+
+# ── Funk & Soul ──────────────────────────────────────────────────────────────
+Funky 70s disco groove — wah guitar, slap bass, brass stabs and tambourine
+Classic Motown soul with a driving backbeat, lush strings and a bright horn section
